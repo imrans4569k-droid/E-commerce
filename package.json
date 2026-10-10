@@ -1,0 +1,19 @@
+{
+  "name": "aura-luxe-ecommerce",
+  "version": "1.0.0",
+  "description": "Full-stack E-Commerce Website built with React, Node.js, and Bootstrap",
+  "scripts": {
+    "server": "cd server && npm start",
+    "server:dev": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "install:all": "npm --prefix server install && npm --prefix client install"
+  },
+  "keywords": [
+    "react",
+    "nodejs",
+    "bootstrap",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "MIT"
+}
