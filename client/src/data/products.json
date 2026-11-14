@@ -1,0 +1,319 @@
+[
+  {
+    "id": "prod-1",
+    "title": "Aura Pro Wireless Noise-Cancelling Headphones",
+    "brand": "SonicWave",
+    "category": "Audio",
+    "price": 279.99,
+    "originalPrice": 349.99,
+    "rating": 4.8,
+    "ratingCount": 428,
+    "stock": 24,
+    "isFeatured": true,
+    "isDeal": true,
+    "badge": "20% OFF",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Studio-grade active noise cancellation with 40mm titanium drivers and 45-hour ultra-long battery life. Features dual transparency mode, spatial audio, and premium memory foam cushions for all-day comfort.",
+    "features": [
+      "Hybrid Active Noise Cancellation (-42dB)",
+      "45 Hours Playtime with Fast Charge (10 min = 5 hrs)",
+      "Lossless Hi-Res LDAC & AAC Bluetooth 5.3",
+      "Multipoint Connection to 2 Devices"
+    ],
+    "tags": ["audio", "wireless", "anc", "bestseller"]
+  },
+  {
+    "id": "prod-2",
+    "title": "Zenith Ultra Smartwatch Series 8",
+    "brand": "Zenith",
+    "category": "Wearables",
+    "price": 199.50,
+    "originalPrice": 249.00,
+    "rating": 4.7,
+    "ratingCount": 315,
+    "stock": 18,
+    "isFeatured": true,
+    "isDeal": false,
+    "badge": "Popular",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "1.96-inch Always-On AMOLED sapphire display, aerospace-grade titanium frame, precision GPS, heart rate ECG, and comprehensive sleep stage tracking. IP68 50m water resistance.",
+    "features": [
+      "1.96\" Super AMOLED 1000 nits display",
+      "Real-time ECG & SpO2 health sensors",
+      "14 Days extended battery standby",
+      "5ATM + IP68 Water & Dust Resistant"
+    ],
+    "tags": ["smartwatch", "fitness", "wearables"]
+  },
+  {
+    "id": "prod-3",
+    "title": "Lumix Vantage Mirrorless 4K Creator Camera",
+    "brand": "Optix Pro",
+    "category": "Electronics",
+    "price": 899.00,
+    "originalPrice": 1050.00,
+    "rating": 4.9,
+    "ratingCount": 182,
+    "stock": 9,
+    "isFeatured": true,
+    "isDeal": true,
+    "badge": "HOT DEAL",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "24.2 MP full-frame sensor capable of 4K 60fps video recording with 5-axis in-body image stabilization. Features rapid eye-tracking autofocus and dual SD card slots for creator workflows.",
+    "features": [
+      "24.2MP BSI CMOS Sensor with 6K oversampling",
+      "Dual Native ISO up to 51,200",
+      "5-Axis Sensor-Shift Image Stabilization",
+      "Articulating Touchscreen LCD Display"
+    ],
+    "tags": ["camera", "creator", "4k", "electronics"]
+  },
+  {
+    "id": "prod-4",
+    "title": "Vortex Stealth Mechanical Gaming Keyboard",
+    "brand": "VortexGear",
+    "category": "Gaming",
+    "price": 129.99,
+    "originalPrice": 159.99,
+    "rating": 4.6,
+    "ratingCount": 540,
+    "stock": 35,
+    "isFeatured": false,
+    "isDeal": false,
+    "badge": "Gaming Choice",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1618384887929-16ec33fab9ef?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Hot-swappable linear yellow switches, double-shot PBT keycaps, per-key RGB backlighting with sound-dampening silicon foam. 1000Hz polling rate for competitive zero-latency gameplay.",
+    "features": [
+      "Hot-Swappable 5-pin PCB sockets",
+      "Factory Lubed Linear Switches",
+      "Customizable Per-Key RGB lighting",
+      "Detachable Braided Type-C cable"
+    ],
+    "tags": ["gaming", "keyboard", "rgb", "pc"]
+  },
+  {
+    "id": "prod-5",
+    "title": "Apex Precision Wireless Ergonomic Mouse",
+    "brand": "VortexGear",
+    "category": "Gaming",
+    "price": 69.99,
+    "originalPrice": 89.99,
+    "rating": 4.7,
+    "ratingCount": 390,
+    "stock": 42,
+    "isFeatured": false,
+    "isDeal": true,
+    "badge": "Save $20",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Ultra-lightweight 58g honeycomb shell with PixArt 3395 sensor reaching 26,000 DPI. PTFE skates ensure fluid glides across any mousepad with 80 hours battery life.",
+    "features": [
+      "PixArt 3395 26K DPI optical sensor",
+      "Ultra-lightweight 58g ergonomic grip",
+      "Tri-mode: 2.4Ghz, Bluetooth 5.2 & Wired",
+      "Optical switches rated for 80M clicks"
+    ],
+    "tags": ["mouse", "gaming", "wireless", "tech"]
+  },
+  {
+    "id": "prod-6",
+    "title": "Minimalist Scandinavian Ceramic Table Lamp",
+    "brand": "Nordic Living",
+    "category": "Home & Living",
+    "price": 84.00,
+    "originalPrice": 110.00,
+    "rating": 4.5,
+    "ratingCount": 118,
+    "stock": 15,
+    "isFeatured": false,
+    "isDeal": false,
+    "badge": "Design Award",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Handcrafted terracotta ceramic base paired with natural pleated linen shade. Features step-less rotary touch dimmer and warm 2700K ambient LED bulb included.",
+    "features": [
+      "Handmade textured ceramic base",
+      "Step-less touch brightness dimmer",
+      "Warm ambient 2700K energy-efficient LED",
+      "Fitted with premium fabric braided cable"
+    ],
+    "tags": ["home", "decor", "lighting", "aesthetic"]
+  },
+  {
+    "id": "prod-7",
+    "title": "Artisan Leather Everyday Commuter Backpack",
+    "brand": "Heritage Goods",
+    "category": "Fashion",
+    "price": 145.00,
+    "originalPrice": 180.00,
+    "rating": 4.8,
+    "ratingCount": 265,
+    "stock": 19,
+    "isFeatured": true,
+    "isDeal": false,
+    "badge": "Top Rated",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Full-grain vegetable-tanned leather combined with water-resistant waxed canvas. Padded compartment fits up to 16-inch laptops with secret passport security pocket.",
+    "features": [
+      "Full-grain premium leather & waxed canvas",
+      "Dedicated padded 16\" MacBook sleeve",
+      "Water-repellent YKK storm zippers",
+      "Ergonomic padded breathable back panel"
+    ],
+    "tags": ["bag", "fashion", "leather", "commute"]
+  },
+  {
+    "id": "prod-8",
+    "title": "Urban Chrono Classic Leather Watch",
+    "brand": "Krono Lux",
+    "category": "Fashion",
+    "price": 159.00,
+    "originalPrice": 220.00,
+    "rating": 4.9,
+    "ratingCount": 384,
+    "stock": 11,
+    "isFeatured": true,
+    "isDeal": true,
+    "badge": "Limited Edition",
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1524805444758-089113d48a6d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Precision Japanese quartz movement housed in surgical stainless steel. Genuine Italian calfskin leather band with quick-release spring bars and scratch-resistant sapphire crystal.",
+    "features": [
+      "Sapphire crystal with anti-reflective coating",
+      "316L Surgical-grade stainless steel",
+      "50m / 5 ATM Water resistance",
+      "Genuine quick-swap Italian leather strap"
+    ],
+    "tags": ["watch", "fashion", "luxury", "accessories"]
+  },
+  {
+    "id": "prod-9",
+    "title": "Barista Touch Espresso & Cappuccino Machine",
+    "brand": "Caffe Craft",
+    "category": "Home & Living",
+    "price": 499.00,
+    "originalPrice": 599.00,
+    "rating": 4.8,
+    "ratingCount": 195,
+    "stock": 8,
+    "isFeatured": false,
+    "isDeal": true,
+    "badge": "Save $100",
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebd02f2a888?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "15-bar Italian pump with digital PID temperature control and integrated conical burr grinder. Micro-foam steam wand delivers cafe-quality latte art right in your kitchen.",
+    "features": [
+      "Precision 15-Bar Italian high pressure pump",
+      "Thermojet heating ready in 3 seconds",
+      "Integrated 30-setting conical burr grinder",
+      "Automatic micro-foam milk texturing wand"
+    ],
+    "tags": ["coffee", "kitchen", "espresso", "home"]
+  },
+  {
+    "id": "prod-10",
+    "title": "Titan Bass Portable Waterproof Speaker",
+    "brand": "SonicWave",
+    "category": "Audio",
+    "price": 89.99,
+    "originalPrice": 119.99,
+    "rating": 4.6,
+    "ratingCount": 612,
+    "stock": 50,
+    "isFeatured": false,
+    "isDeal": false,
+    "badge": "IP67 Rugged",
+    "image": "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1545454675-3531b543be5d?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "360-degree immersive sound with dual passive radiators and punchy bass boost. IP67 dustproof and waterproof design floats in water with 24 hours of playback.",
+    "features": [
+      "360° Omnidirectional 40W Stereo Output",
+      "IP67 Floating Waterproof and Dustproof",
+      "24 Hours nonstop party playback",
+      "PartySync link up to 100+ speakers"
+    ],
+    "tags": ["speaker", "audio", "waterproof", "portable"]
+  },
+  {
+    "id": "prod-11",
+    "title": "SwiftBook Pro 15.6\" OLED Ultra Laptop",
+    "brand": "Volt Core",
+    "category": "Electronics",
+    "price": 1249.00,
+    "originalPrice": 1499.00,
+    "rating": 4.9,
+    "ratingCount": 142,
+    "stock": 14,
+    "isFeatured": true,
+    "isDeal": true,
+    "badge": "Top Choice",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Ultra-thin aluminum chassis featuring a 15.6-inch 2.8K 120Hz OLED HDR display, 16-Core processor, 32GB LPDDR5X RAM, and 1TB NVMe Gen4 SSD. Up to 18 hours battery.",
+    "features": [
+      "15.6\" 2.8K 120Hz 100% DCI-P3 OLED display",
+      "Next-Gen AI-accelerated 16-core processor",
+      "32GB RAM + 1TB High-speed NVMe SSD",
+      "Thunderbolt 4 & Wi-Fi 7 Connectivity"
+    ],
+    "tags": ["laptop", "electronics", "oled", "productivity"]
+  },
+  {
+    "id": "prod-12",
+    "title": "Nordic Polarized UV400 Acetate Sunglasses",
+    "brand": "Solstice",
+    "category": "Fashion",
+    "price": 75.00,
+    "originalPrice": 95.00,
+    "rating": 4.7,
+    "ratingCount": 178,
+    "stock": 30,
+    "isFeatured": false,
+    "isDeal": false,
+    "badge": "Summer Pick",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&auto=format&fit=crop&q=80"
+    ],
+    "description": "Handcrafted plant-based Italian acetate frame with 7-barrel stainless steel hinges and polarized TAC lenses for 100% UVA/UVB eye protection and crystal clarity.",
+    "features": [
+      "Polarized TAC Triacetate lenses",
+      "100% UV400 Protection against rays",
+      "Hand-polished Italian acetate frame",
+      "Hard protective shell & microfibre pouch"
+    ],
+    "tags": ["sunglasses", "fashion", "accessories", "eyewear"]
+  }
+]
